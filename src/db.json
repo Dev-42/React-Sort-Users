@@ -1,4 +1,5 @@
-[
+{
+    "users":[ 
     {
       "id": 1,
       "avatar": "http://dummyimage.com/200x200.jpg/5fa2dd/ffffff",
@@ -550,3 +551,4 @@
       "is_following": true
     }
   ]
+}
